@@ -1,0 +1,4 @@
+1. but your photo of your face in folder "persons"
+2. run "encode.py" IMPORTANT
+3. run "app.py"
+4. GO to 127.0.0.1:5000
